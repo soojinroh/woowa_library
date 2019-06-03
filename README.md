@@ -1,16 +1,14 @@
 # woowa_library
 우아한 테크 코스 내 도서 관리를 위한 프로그램
 
-우아한 도서관
+백엔드 : [JM](https://github.com/kimjungmin-developer), [에이든](https://github.com/hyperpace)
 
-------
+프론트 : [이바](github.com/seonghun127), [슬로스](https://github.com/soojinroh)
 
-백엔드 :  JM, 에이든
+QR / 슬랙 : [베디](https://github.com/dpudpu)
 
-프론트 : 이바, 슬로스
-
-QR / 슬랙 : 베디
-
+## ERD
+![ERD](./docs/ERD.jpg)
 
 
 # 기능 구현 목록
@@ -67,7 +65,7 @@ QR / 슬랙 : 베디
 
 
 
-- 사용 기술
+## 기술 스택
 - Java
 - Java Spark
 - MySQL
@@ -77,7 +75,7 @@ QR / 슬랙 : 베디
 
 
 
-- 규칙
+## 규칙
 - 성과보다는 성장이 목적이다.
 - 각이 안 나오면 바로 바로 얘기하자.
 - 데일리, 마무리 미팅 (10분) 회의
@@ -86,10 +84,3 @@ QR / 슬랙 : 베디
 - 마음 상하지 않게 지적하고, 지적 받았다고 마음 상하지 말자.
 - 6월 13일 마감
 
-
-
-------
-
-1. Git repo 만들기
-2. DB 짜기
-3. 페이지 구상

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../java-coordinate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../java-ladder" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../java-lotto" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../java-racingcar" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ChiangMai" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ChiangMai/ChiangMai" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../bbang" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../code-review/java-baseball" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../java-baseball" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../java-baseball-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../java-ladder" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../java-lotto" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../java-movie" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../java-racingcar" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../jwp-book/chapter2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../key/java-movie" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-baseball-develop" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-ladder-hyunssooo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-ladder-starkim06" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-ladder-starkim06 2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-lotto-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-lotto-precource-daejun" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-movie-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-racingcar-develop" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-racingcar-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Spring-4.3.18.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

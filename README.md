@@ -1,15 +1,11 @@
 # woowa_library
 우아한 테크 코스 내 도서 관리를 위한 프로그램
 
-## 우아한 도서관
+백엔드 : [JM](https://github.com/kimjungmin-developer), [에이든](https://github.com/hyperpace)
 
-------
+프론트 : [이바](github.com/seonghun127), [슬로스](https://github.com/soojinroh)
 
-백엔드 :  JM, 에이든
-
-프론트 : 이바, 슬로스
-
-QR / 슬랙 : 베디
+QR / 슬랙 : [베디](https://github.com/dpudpu)
 
 ## ERD
 ![ERD](./docs/ERD.jpg)
@@ -88,10 +84,3 @@ QR / 슬랙 : 베디
 - 마음 상하지 않게 지적하고, 지적 받았다고 마음 상하지 말자.
 - 6월 13일 마감
 
-
-
-------
-
-1. Git repo 만들기
-2. DB 짜기
-3. 페이지 구상

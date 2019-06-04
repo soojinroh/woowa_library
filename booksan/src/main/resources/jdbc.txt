@@ -1,0 +1,4 @@
+server=localhost:3306
+database=booksan?serverTimezone=UTC&allowPublicKeyRetrieval=true&useSSL=false
+user=user
+password=1234
